@@ -1,7 +1,762 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Direct Sparse Mapping",
+                  "description": "J. Zubizarreta, I. Aguinaga and J. M. M. Montiel. arXiv:1904.06577, 2019.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 181082592,
+                    "language": "C++",
+                    "last_commit": "2021-04-08T16:51:33Z",
+                    "owner": "jzubizarreta",
+                    "repo": "dsm",
+                    "stars": 459
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenVSLAM: A Versatile Visual SLAM Framework",
+                  "description": "Sumikura, Shinya and Shibuya, Mikiya and Sakurada, Ken. In Proceedings of the 27th ACM International Conference on Multimedia 2019",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 183462315,
+                    "language": null,
+                    "last_commit": "2021-02-25T06:32:26Z",
+                    "owner": "xdspacelab",
+                    "repo": "openvslam",
+                    "stars": 2976
+                  }
+                }
+              ],
+              "description": "Real-time simultaneous localisation and mapping with a single camera. A. J. Davison. ICCV 2003.\nVisual odometry. D. Nister, O. Naroditsky, and J. Bergen. CVPR 2004.\nReal time localization and 3d reconstruction. E. Mouragnon, M. Lhuillier, M. Dhome, F. Dekeyser, and P. Sayd. CVPR 2006.\nParallel Tracking and Mapping for Small AR Workspaces. G. Klein, D. Murray. ISMAR 2007.\nReal-Time 6-DOF Monocular Visual SLAM in a Large-scale Environments. H. Lim, J. Lim, H. Jin Kim. ICRA 2014.\nDirect Sparse Odometry, J. Engel, V. Koltun, D. Cremers, arXiv:1607.02565, 2016.\nVisual SLAM algorithms: a survey from 2010 to 2016, T. Taketomi, H. Uchiyama, S. Ikeda, IPSJ T Comput Vis Appl 2017.\n∇SLAM: Dense SLAM meets Automatic Differentiation. K. M. Jatavallabhula, G. Iyer, L. Paull. arXiv:1910.10672, 2019.",
+              "node_type": "group",
+              "title": "Visual odometry (image based only)"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SLAM/VO"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Stereo matching by training a convolutional neural network to compare image patches",
+                  "description": ", J., Zbontar, and Y. LeCun. JMLR 2016.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43210518,
+                    "language": "Cuda",
+                    "last_commit": "2018-01-25T21:47:39Z",
+                    "owner": "jzbontar",
+                    "repo": "mc-cnn",
+                    "stars": 726
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Surfacenet: An end-to-end 3d neural network for multiview stereopsis",
+                  "description": ", Ji, M., Gall, J., Zheng, H., Liu, Y., Fang, L. ICCV2017.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 99289655,
+                    "language": "Python",
+                    "last_commit": "2020-07-14T07:04:53Z",
+                    "owner": "mjiUST",
+                    "repo": "SurfaceNet",
+                    "stars": 124
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeepMVS: Learning Multi-View Stereopsis",
+                  "description": ", Huang, P. and Matzen, K. and Kopf, J. and Ahuja, N. and Huang, J. CVPR 2018.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120556270,
+                    "language": "Python",
+                    "last_commit": "2022-05-09T12:53:21Z",
+                    "owner": "phuang17",
+                    "repo": "DeepMVS",
+                    "stars": 354
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction",
+                  "description": "M. Oechsle, S. Peng, and A. Geiger. ICCV 2021.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 404249556,
+                    "language": "Python",
+                    "last_commit": "2024-03-02T19:18:48Z",
+                    "owner": "autonomousvision",
+                    "repo": "unisurf",
+                    "stars": 422
+                  }
+                }
+              ],
+              "description": "Matchnet: Unifying feature and metric learning for patch-based matching, X. Han, Thomas Leung, Y. Jia, R. Sukthankar, A. C. Berg. CVPR 2015.\nEfficient deep learning for stereo matching, W. Luo, A. G. Schwing, R. Urtasun. CVPR 2016.\nLearning a multi-view stereo machine, A. Kar, C. Häne, J. Malik. NIPS 2017.\nLearned multi-patch similarity, W. Hartmann, S. Galliani, M. Havlena, L. V. Gool, K. Schindler.I CCV 2017.\nRayNet: Learning Volumetric 3D Reconstruction with Ray Potentials, D. Paschalidou and A. O. Ulusoy and C. Schmitt and L. Gool and A. Geiger. CVPR 2018.\nMVSNet: Depth Inference for Unstructured Multi-view Stereo, Y. Yao, Z. Luo, S. Li, T. Fang, L. Quan. ECCV 2018.\nLearning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency, T. Khot, S. Agrawal, S. Tulsiani, C. Mertz, S. Lucey, M. Hebert. 2019.\nDPSNET: END-TO-END DEEP PLANE SWEEP STEREO, Sunghoon Im, Hae-Gon Jeon, Stephen Lin, In So Kweon. 2019.\nPoint-based Multi-view Stereo Network, Rui Chen, Songfang Han, Jing Xu, Hao Su. ICCV 2019.",
+              "node_type": "group",
+              "title": "Machine Learning based MVS"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multiple View Stereovision"
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bundler",
+              "description": "C++ GNU General Public License - contamination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8680692,
+                "language": "C",
+                "last_commit": "2019-05-13T15:27:18Z",
+                "owner": "snavely",
+                "repo": "bundler_sfm",
+                "stars": 1577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Colmap",
+              "description": "C++ BSD 3-clause license - Permissive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23007417,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:53:37Z",
+                "owner": "colmap",
+                "repo": "colmap",
+                "stars": 12542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TeleSculptor",
+              "description": "C++ BSD 3-Clause license - Permissive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19784494,
+                "language": "C++",
+                "last_commit": "2024-05-22T15:21:20Z",
+                "owner": "Kitware",
+                "repo": "TeleSculptor",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MVE",
+              "description": "C++ BSD 3-Clause license + parts under the GPL 3 license",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4160797,
+                "language": "C++",
+                "last_commit": "2026-05-31T15:40:22Z",
+                "owner": "simonfuhrmann",
+                "repo": "mve",
+                "stars": 1059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenMVG",
+              "description": "C++ MPL2 - Permissive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8096326,
+                "language": "C++",
+                "last_commit": "2025-12-17T00:44:42Z",
+                "owner": "openMVG",
+                "repo": "openMVG",
+                "stars": 6540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSfM",
+              "description": "Python Simplified BSD license - Permissive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26531519,
+                "language": "Python",
+                "last_commit": "2026-08-22T01:09:51Z",
+                "owner": "mapillary",
+                "repo": "OpenSfM",
+                "stars": 3795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TheiaSfM",
+              "description": "C++ New BSD license - Permissive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30662167,
+                "language": "C++",
+                "last_commit": "2023-04-03T19:08:29Z",
+                "owner": "sweeneychris",
+                "repo": "TheiaSfM",
+                "stars": 946
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenSource SfM (Structure from Motion)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenGV",
+              "description": "C++ BSD - permissive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12015273,
+                "language": "C++",
+                "last_commit": "2023-06-07T18:14:14Z",
+                "owner": "laurentkneip",
+                "repo": "opengv",
+                "stars": 1126
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenSource Multiple View Geometry Library Solvers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Colmap",
+              "description": "C++ CUDA BSD 3-clause license - Permissive (Can use CGAL -> GNU General Public License - contamination)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23007417,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:53:37Z",
+                "owner": "colmap",
+                "repo": "colmap",
+                "stars": 12542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HPMVS",
+              "description": "C++ GNU General Public License - contamination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55901273,
+                "language": "C++",
+                "last_commit": "2018-03-08T16:06:45Z",
+                "owner": "alexlocher",
+                "repo": "hpmvs",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MVE",
+              "description": "C++ BSD 3-Clause license + parts under the GPL 3 license",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4160797,
+                "language": "C++",
+                "last_commit": "2026-05-31T15:40:22Z",
+                "owner": "simonfuhrmann",
+                "repo": "mve",
+                "stars": 1059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenMVS",
+              "description": "C++ (CUDA optional) AGPL3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35825593,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:12:36Z",
+                "owner": "cdcseacave",
+                "repo": "openMVS",
+                "stars": 4096
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PMVS",
+              "description": "C++ CUDA GNU General Public License - contamination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1468022,
+                "language": "C++",
+                "last_commit": "2019-12-13T23:40:32Z",
+                "owner": "pmoulon",
+                "repo": "CMVS-PMVS",
+                "stars": 960
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SMVS Shading-aware Multi-view Stereo",
+              "description": "C++ BSD-3-Clause license",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63158938,
+                "language": "C++",
+                "last_commit": "2022-04-25T11:02:33Z",
+                "owner": "flanggut",
+                "repo": "smvs",
+                "stars": 254
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenSource MVS (Multiple View Stereovision)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DSO-Direct Sparse Odometry",
+              "description": "C++ GPLv3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73256421,
+                "language": "C++",
+                "last_commit": "2024-02-23T16:15:26Z",
+                "owner": "JakobEngel",
+                "repo": "dso",
+                "stars": 2454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DTSLAM-Deferred Triangulation SLAM",
+              "description": "C++ modified BSD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25522008,
+                "language": "C++",
+                "last_commit": "2017-04-03T11:01:37Z",
+                "owner": "plumonito",
+                "repo": "dtslam",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LSD-SLAM",
+              "description": "C++/ROS GNU General Public License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23995982,
+                "language": "C++",
+                "last_commit": "2023-03-23T14:55:27Z",
+                "owner": "tum-vision",
+                "repo": "lsd_slam",
+                "stars": 2724
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAPLAB-ROVIOLI",
+              "description": "C++/ROS Apachev2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112253403,
+                "language": "C++",
+                "last_commit": "2024-05-31T08:49:33Z",
+                "owner": "ethz-asl",
+                "repo": "maplab",
+                "stars": 2867
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OKVIS: Open Keyframe-based Visual-Inertial SLAM",
+              "description": "C++ BSD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51096220,
+                "language": "C++",
+                "last_commit": "2021-08-24T10:19:14Z",
+                "owner": "ethz-asl",
+                "repo": "okvis",
+                "stars": 1365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ORB-SLAM",
+              "description": "C++ GPLv3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50255244,
+                "language": "C++",
+                "last_commit": "2024-05-15T07:48:28Z",
+                "owner": "raulmur",
+                "repo": "ORB_SLAM2",
+                "stars": 10221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REBVO - Realtime Edge Based Visual Odometry for a Monocular Camera",
+              "description": "C++ GNU General Public License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51785337,
+                "language": "Objective-C",
+                "last_commit": "2020-10-16T20:55:34Z",
+                "owner": "JuanTarrio",
+                "repo": "rebvo",
+                "stars": 273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SVO semi-direct Visual Odometry",
+              "description": "C++/ROS GNU General Public License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17672262,
+                "language": "C++",
+                "last_commit": "2019-08-22T21:27:36Z",
+                "owner": "uzh-rpg",
+                "repo": "rpg_svo",
+                "stars": 2228
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenSource SLAM (Simultaneous Localization And Mapping)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DBoW2",
+              "description": "C++ modified BSD License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25787949,
+                "language": "C++",
+                "last_commit": "2021-11-24T11:28:16Z",
+                "owner": "dorian3d",
+                "repo": "DBoW2",
+                "stars": 944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libvot",
+              "description": "C++ BSD 3-Clause License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33583947,
+                "language": "C++",
+                "last_commit": "2019-06-10T14:58:44Z",
+                "owner": "hlzz",
+                "repo": "libvot",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VocabTree2",
+              "description": "C++ BSD License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8675339,
+                "language": "C++",
+                "last_commit": "2016-08-22T20:36:33Z",
+                "owner": "snavely",
+                "repo": "VocabTree2",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Large scale image retrieval / CBIR (Content Based Image Retrieval)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CERES SOLVER",
+              "description": "C++ BSD License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15667250,
+                "language": "C++",
+                "last_commit": "2026-08-19T16:02:05Z",
+                "owner": "ceres-solver",
+                "repo": "ceres-solver",
+                "stars": 4544
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "G2O",
+              "description": "C++ BSD License + L/GPL3 restriction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3161336,
+                "language": "C++",
+                "last_commit": "2026-08-23T19:39:56Z",
+                "owner": "RainerKuemmerle",
+                "repo": "g2o",
+                "stars": 3460
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenSource minimization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Annoy",
+              "description": "C++ Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9155431,
+                "language": "C++",
+                "last_commit": "2025-10-29T14:08:37Z",
+                "owner": "spotify",
+                "repo": "annoy",
+                "stars": 14290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Libnabo",
+              "description": "C++ BSD License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 924286,
+                "language": "C++",
+                "last_commit": "2025-07-16T14:47:06Z",
+                "owner": "norlab-ulaval",
+                "repo": "libnabo",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nanoflann",
+              "description": "C++ BSD License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19349382,
+                "language": "C++",
+                "last_commit": "2026-08-22T07:48:51Z",
+                "owner": "jlblancoc",
+                "repo": "nanoflann",
+                "stars": 2670
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Nearest Neighbor Search"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "InstantMesh",
+              "description": "Mesh Simplification C++ BSD License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42442099,
+                "language": "C++",
+                "last_commit": "2022-01-03T03:31:55Z",
+                "owner": "wjakob",
+                "repo": "instant-meshes",
+                "stars": 6193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mesh-processing-library",
+              "description": "C++ MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 57255972,
+                "language": "C++",
+                "last_commit": "2016-11-04T22:18:47Z",
+                "owner": "microsoft",
+                "repo": "Mesh-processing-library",
+                "stars": 535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open3D",
+              "description": "C++ MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75413130,
+                "language": "C++",
+                "last_commit": "2026-08-23T05:12:21Z",
+                "owner": "isl-org",
+                "repo": "Open3D",
+                "stars": 13909
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mesh storage processing"
+        }
+      ],
+      "title": "OpenSource resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AKAZE",
+              "description": "x MSURF/MLDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14303396,
+                "language": "C++",
+                "last_commit": "2023-08-07T09:36:06Z",
+                "owner": "pablofdezalc",
+                "repo": "akaze",
+                "stars": 415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KAZE",
+              "description": "x MSURF/MLDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14313688,
+                "language": "C++",
+                "last_commit": "2016-01-09T13:40:07Z",
+                "owner": "pablofdezalc",
+                "repo": "kaze",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LIOP/MIOP",
+              "description": "x",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52495796,
+                "language": "C++",
+                "last_commit": "2016-02-29T03:07:48Z",
+                "owner": "foelin",
+                "repo": "IntensityOrderFeature",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LIFT (machine learning)",
+              "description": "x x",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63952900,
+                "language": "Python",
+                "last_commit": "2017-11-06T13:55:43Z",
+                "owner": "cvlab-epfl",
+                "repo": "LIFT",
+                "stars": 494
+              }
+            }
+          ],
+          "description": "From handcrafted to deep local features. G. Csurka, C. R. Dance, M. Humenberger. 2018.",
+          "node_type": "group",
+          "title": "Features detection/Description"
+        }
+      ],
+      "title": "Features"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:02:14.433Z",
+    "last_updated": "2026-08-24T13:55:46.702Z",
     "original_repository": "openMVG/awesome_3DReconstruction_list",
     "original_repository_id": 65994875,
     "original_repository_sha": "c779e883aeac478b32b342dd9482e7c424b13526",
