@@ -153,10 +153,10 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:53:37Z",
+                "last_commit": "2026-08-24T19:59:13Z",
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12542
+                "stars": 12548
               }
             },
             {
@@ -231,7 +231,7 @@
                 "last_commit": "2023-04-03T19:08:29Z",
                 "owner": "sweeneychris",
                 "repo": "TheiaSfM",
-                "stars": 946
+                "stars": 945
               }
             }
           ],
@@ -272,10 +272,10 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:53:37Z",
+                "last_commit": "2026-08-24T19:59:13Z",
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12542
+                "stars": 12548
               }
             },
             {
@@ -317,10 +317,10 @@
                 "archived": false,
                 "id": 35825593,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:12:36Z",
+                "last_commit": "2026-08-24T21:54:18Z",
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4096
+                "stars": 4098
               }
             },
             {
@@ -563,7 +563,7 @@
                 "archived": false,
                 "id": 3161336,
                 "language": "C++",
-                "last_commit": "2026-08-23T19:39:56Z",
+                "last_commit": "2026-08-24T19:33:04Z",
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
                 "stars": 3460
@@ -640,7 +640,7 @@
                 "last_commit": "2022-01-03T03:31:55Z",
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6193
+                "stars": 6194
               }
             },
             {
@@ -667,7 +667,7 @@
                 "archived": false,
                 "id": 75413130,
                 "language": "C++",
-                "last_commit": "2026-08-23T05:12:21Z",
+                "last_commit": "2026-08-24T23:35:26Z",
                 "owner": "isl-org",
                 "repo": "Open3D",
                 "stars": 13909
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:55:46.702Z",
+    "last_updated": "2026-08-25T02:57:24.570Z",
     "original_repository": "openMVG/awesome_3DReconstruction_list",
     "original_repository_id": 65994875,
     "original_repository_sha": "c779e883aeac478b32b342dd9482e7c424b13526",
