@@ -153,7 +153,7 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-24T19:59:13Z",
+                "last_commit": "2026-08-25T05:48:21Z",
                 "owner": "colmap",
                 "repo": "colmap",
                 "stars": 12549
@@ -272,7 +272,7 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-24T19:59:13Z",
+                "last_commit": "2026-08-25T05:48:21Z",
                 "owner": "colmap",
                 "repo": "colmap",
                 "stars": 12549
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:38:24.919Z",
+    "last_updated": "2026-08-25T05:49:18.364Z",
     "original_repository": "openMVG/awesome_3DReconstruction_list",
     "original_repository_id": 65994875,
     "original_repository_sha": "c779e883aeac478b32b342dd9482e7c424b13526",
