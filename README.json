@@ -141,7 +141,7 @@
                 "last_commit": "2019-05-13T15:27:18Z",
                 "owner": "snavely",
                 "repo": "bundler_sfm",
-                "stars": 1577
+                "stars": 1578
               }
             },
             {
@@ -153,10 +153,10 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-25T05:48:21Z",
+                "last_commit": "2026-08-25T20:20:31Z",
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12549
+                "stars": 12559
               }
             },
             {
@@ -201,7 +201,7 @@
                 "last_commit": "2025-12-17T00:44:42Z",
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6540
+                "stars": 6541
               }
             },
             {
@@ -213,7 +213,7 @@
                 "archived": false,
                 "id": 26531519,
                 "language": "Python",
-                "last_commit": "2026-08-22T01:09:51Z",
+                "last_commit": "2026-08-25T22:56:54Z",
                 "owner": "mapillary",
                 "repo": "OpenSfM",
                 "stars": 3795
@@ -272,10 +272,10 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-25T05:48:21Z",
+                "last_commit": "2026-08-25T20:20:31Z",
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12549
+                "stars": 12559
               }
             },
             {
@@ -317,10 +317,10 @@
                 "archived": false,
                 "id": 35825593,
                 "language": "C++",
-                "last_commit": "2026-08-24T21:54:18Z",
+                "last_commit": "2026-08-25T08:02:46Z",
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4099
+                "stars": 4100
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2019-12-13T23:40:32Z",
                 "owner": "pmoulon",
                 "repo": "CMVS-PMVS",
-                "stars": 960
+                "stars": 961
               }
             },
             {
@@ -432,7 +432,7 @@
                 "last_commit": "2021-08-24T10:19:14Z",
                 "owner": "ethz-asl",
                 "repo": "okvis",
-                "stars": 1365
+                "stars": 1366
               }
             },
             {
@@ -447,7 +447,7 @@
                 "last_commit": "2024-05-15T07:48:28Z",
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10221
+                "stars": 10223
               }
             },
             {
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-19T16:02:05Z",
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4544
+                "stars": 4545
               }
             },
             {
@@ -566,7 +566,7 @@
                 "last_commit": "2026-08-24T19:33:04Z",
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3460
+                "stars": 3461
               }
             }
           ],
@@ -588,7 +588,7 @@
                 "last_commit": "2025-10-29T14:08:37Z",
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14290
+                "stars": 14289
               }
             },
             {
@@ -615,7 +615,7 @@
                 "archived": false,
                 "id": 19349382,
                 "language": "C++",
-                "last_commit": "2026-08-22T07:48:51Z",
+                "last_commit": "2026-08-25T20:16:26Z",
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
                 "stars": 2670
@@ -640,7 +640,7 @@
                 "last_commit": "2022-01-03T03:31:55Z",
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6194
+                "stars": 6195
               }
             },
             {
@@ -667,10 +667,10 @@
                 "archived": false,
                 "id": 75413130,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:35:26Z",
+                "last_commit": "2026-08-25T23:54:28Z",
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13909
+                "stars": 13911
               }
             }
           ],
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:18.364Z",
+    "last_updated": "2026-08-26T03:03:52.503Z",
     "original_repository": "openMVG/awesome_3DReconstruction_list",
     "original_repository_id": 65994875,
     "original_repository_sha": "c779e883aeac478b32b342dd9482e7c424b13526",
