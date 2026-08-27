@@ -153,10 +153,10 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-25T20:20:31Z",
+                "last_commit": "2026-08-27T11:06:14Z",
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12559
+                "stars": 12575
               }
             },
             {
@@ -171,7 +171,7 @@
                 "last_commit": "2024-05-22T15:21:20Z",
                 "owner": "Kitware",
                 "repo": "TeleSculptor",
-                "stars": 649
+                "stars": 650
               }
             },
             {
@@ -201,7 +201,7 @@
                 "last_commit": "2025-12-17T00:44:42Z",
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6541
+                "stars": 6543
               }
             },
             {
@@ -272,10 +272,10 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-25T20:20:31Z",
+                "last_commit": "2026-08-27T11:06:14Z",
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12559
+                "stars": 12575
               }
             },
             {
@@ -317,10 +317,10 @@
                 "archived": false,
                 "id": 35825593,
                 "language": "C++",
-                "last_commit": "2026-08-25T08:02:46Z",
+                "last_commit": "2026-08-27T10:28:40Z",
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4100
+                "stars": 4101
               }
             },
             {
@@ -477,7 +477,7 @@
                 "last_commit": "2019-08-22T21:27:36Z",
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2228
+                "stars": 2229
               }
             }
           ],
@@ -514,7 +514,7 @@
                 "last_commit": "2019-06-10T14:58:44Z",
                 "owner": "hlzz",
                 "repo": "libvot",
-                "stars": 178
+                "stars": 179
               }
             },
             {
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-19T16:02:05Z",
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4545
+                "stars": 4547
               }
             },
             {
@@ -618,7 +618,7 @@
                 "last_commit": "2026-08-25T20:16:26Z",
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
-                "stars": 2670
+                "stars": 2672
               }
             }
           ],
@@ -640,7 +640,7 @@
                 "last_commit": "2022-01-03T03:31:55Z",
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6195
+                "stars": 6197
               }
             },
             {
@@ -667,10 +667,10 @@
                 "archived": false,
                 "id": 75413130,
                 "language": "C++",
-                "last_commit": "2026-08-25T23:54:28Z",
+                "last_commit": "2026-08-27T06:32:17Z",
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13911
+                "stars": 13917
               }
             }
           ],
@@ -756,9 +756,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:03:52.503Z",
-    "original_repository": "openMVG/awesome_3DReconstruction_list",
-    "original_repository_id": 65994875,
+    "last_updated": "2026-08-27T11:12:02.860Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 65994875,
+      "language": null,
+      "last_commit": "2021-10-12T04:37:11Z",
+      "owner": "openMVG",
+      "repo": "awesome_3DReconstruction_list",
+      "stars": 4418
+    },
     "original_repository_sha": "c779e883aeac478b32b342dd9482e7c424b13526",
     "enhanced_repository": "enhansome/enhansome_3DReconstruction_list",
     "enhanced_repository_description": null,
