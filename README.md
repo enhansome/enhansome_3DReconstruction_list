@@ -360,7 +360,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 | Project                                                                                           | Language | License                                              |
 | ------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- |
 | [Bundler](https://github.com/snavely/bundler_sfm) ⭐ 1,578 \| 🐛 40 \| 🌐 C \| 📅 2019-05-13       | C++      | GNU General Public License - contamination           |
-| [Colmap](https://github.com/colmap/colmap) ⭐ 12,575 \| 🐛 705 \| 🌐 C++ \| 📅 2026-08-27          | C++      | BSD 3-clause license - Permissive                    |
+| [Colmap](https://github.com/colmap/colmap) ⭐ 12,575 \| 🐛 706 \| 🌐 C++ \| 📅 2026-08-27          | C++      | BSD 3-clause license - Permissive                    |
 | [TeleSculptor](https://github.com/Kitware/TeleSculptor) ⭐ 650 \| 🐛 42 \| 🌐 C++ \| 📅 2024-05-22 | C++      | BSD 3-Clause license - Permissive                    |
 | [MicMac](https://github.com/micmacIGN)                                                            | C++      | CeCILL-B                                             |
 | [MVE](https://github.com/simonfuhrmann/mve) ⭐ 1,059 \| 🐛 5 \| 🌐 C++ \| 📅 2026-05-31            | C++      | BSD 3-Clause license + parts under the GPL 3 license |
@@ -382,7 +382,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 | Project                                                                                                           | Language             | License                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------- |
-| [Colmap](https://github.com/colmap/colmap) ⭐ 12,575 \| 🐛 705 \| 🌐 C++ \| 📅 2026-08-27                          | C++ CUDA             | BSD 3-clause license - Permissive (Can use CGAL -> GNU General Public License - contamination) |
+| [Colmap](https://github.com/colmap/colmap) ⭐ 12,575 \| 🐛 706 \| 🌐 C++ \| 📅 2026-08-27                          | C++ CUDA             | BSD 3-clause license - Permissive (Can use CGAL -> GNU General Public License - contamination) |
 | [GPUIma + fusibile](https://github.com/kysucix)                                                                   | C++ CUDA             | GNU General Public License - contamination                                                     |
 | [HPMVS](https://github.com/alexlocher/hpmvs) ⭐ 95 \| 🐛 4 \| 🌐 C++ \| 📅 2018-03-08                              | C++                  | GNU General Public License - contamination                                                     |
 | [MICMAC](http://logiciels.ign.fr/?Micmac)                                                                         | C++                  | CeCILL-B                                                                                       |
