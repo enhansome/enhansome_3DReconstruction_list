@@ -20,7 +20,8 @@
                     "owner": "jzubizarreta",
                     "repo": "dsm",
                     "stars": 459
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:48:30.955Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "xdspacelab",
                     "repo": "openvslam",
                     "stars": 2976
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:48:30.955Z"
                 }
               ],
               "description": "Real-time simultaneous localisation and mapping with a single camera. A. J. Davison. ICCV 2003.\nVisual odometry. D. Nister, O. Naroditsky, and J. Bergen. CVPR 2004.\nReal time localization and 3d reconstruction. E. Mouragnon, M. Lhuillier, M. Dhome, F. Dekeyser, and P. Sayd. CVPR 2006.\nParallel Tracking and Mapping for Small AR Workspaces. G. Klein, D. Murray. ISMAR 2007.\nReal-Time 6-DOF Monocular Visual SLAM in a Large-scale Environments. H. Lim, J. Lim, H. Jin Kim. ICRA 2014.\nDirect Sparse Odometry, J. Engel, V. Koltun, D. Cremers, arXiv:1607.02565, 2016.\nVisual SLAM algorithms: a survey from 2010 to 2016, T. Taketomi, H. Uchiyama, S. Ikeda, IPSJ T Comput Vis Appl 2017.\n∇SLAM: Dense SLAM meets Automatic Differentiation. K. M. Jatavallabhula, G. Iyer, L. Paull. arXiv:1910.10672, 2019.",
@@ -64,7 +66,8 @@
                     "owner": "jzbontar",
                     "repo": "mc-cnn",
                     "stars": 726
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:48:30.955Z"
                 },
                 {
                   "node_type": "item",
@@ -79,7 +82,8 @@
                     "owner": "mjiUST",
                     "repo": "SurfaceNet",
                     "stars": 124
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:48:30.955Z"
                 },
                 {
                   "node_type": "item",
@@ -94,7 +98,8 @@
                     "owner": "phuang17",
                     "repo": "DeepMVS",
                     "stars": 354
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:48:30.955Z"
                 },
                 {
                   "node_type": "item",
@@ -109,7 +114,8 @@
                     "owner": "autonomousvision",
                     "repo": "unisurf",
                     "stars": 422
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:48:30.955Z"
                 }
               ],
               "description": "Matchnet: Unifying feature and metric learning for patch-based matching, X. Han, Thomas Leung, Y. Jia, R. Sukthankar, A. C. Berg. CVPR 2015.\nEfficient deep learning for stereo matching, W. Luo, A. G. Schwing, R. Urtasun. CVPR 2016.\nLearning a multi-view stereo machine, A. Kar, C. Häne, J. Malik. NIPS 2017.\nLearned multi-patch similarity, W. Hartmann, S. Galliani, M. Havlena, L. V. Gool, K. Schindler.I CCV 2017.\nRayNet: Learning Volumetric 3D Reconstruction with Ray Potentials, D. Paschalidou and A. O. Ulusoy and C. Schmitt and L. Gool and A. Geiger. CVPR 2018.\nMVSNet: Depth Inference for Unstructured Multi-view Stereo, Y. Yao, Z. Luo, S. Li, T. Fang, L. Quan. ECCV 2018.\nLearning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency, T. Khot, S. Agrawal, S. Tulsiani, C. Mertz, S. Lucey, M. Hebert. 2019.\nDPSNET: END-TO-END DEEP PLANE SWEEP STEREO, Sunghoon Im, Hae-Gon Jeon, Stephen Lin, In So Kweon. 2019.\nPoint-based Multi-view Stereo Network, Rui Chen, Songfang Han, Jing Xu, Hao Su. ICCV 2019.",
@@ -142,7 +148,8 @@
                 "owner": "snavely",
                 "repo": "bundler_sfm",
                 "stars": 1578
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -153,11 +160,12 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-27T12:14:53Z",
+                "last_commit": "2026-08-28T13:26:56Z",
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12575
-              }
+                "stars": 12581
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -172,7 +180,8 @@
                 "owner": "Kitware",
                 "repo": "TeleSculptor",
                 "stars": 650
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -187,7 +196,8 @@
                 "owner": "simonfuhrmann",
                 "repo": "mve",
                 "stars": 1059
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -201,8 +211,9 @@
                 "last_commit": "2025-12-17T00:44:42Z",
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6543
-              }
+                "stars": 6544
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -217,7 +228,8 @@
                 "owner": "mapillary",
                 "repo": "OpenSfM",
                 "stars": 3795
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -232,7 +244,8 @@
                 "owner": "sweeneychris",
                 "repo": "TheiaSfM",
                 "stars": 945
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": null,
@@ -254,7 +267,8 @@
                 "owner": "laurentkneip",
                 "repo": "opengv",
                 "stars": 1126
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": null,
@@ -272,11 +286,12 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-27T12:14:53Z",
+                "last_commit": "2026-08-28T13:26:56Z",
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12575
-              }
+                "stars": 12581
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -291,7 +306,8 @@
                 "owner": "alexlocher",
                 "repo": "hpmvs",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -306,7 +322,8 @@
                 "owner": "simonfuhrmann",
                 "repo": "mve",
                 "stars": 1059
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -317,11 +334,12 @@
                 "archived": false,
                 "id": 35825593,
                 "language": "C++",
-                "last_commit": "2026-08-27T12:13:26Z",
+                "last_commit": "2026-08-28T11:43:01Z",
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4101
-              }
+                "stars": 4102
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -336,7 +354,8 @@
                 "owner": "pmoulon",
                 "repo": "CMVS-PMVS",
                 "stars": 961
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -351,7 +370,8 @@
                 "owner": "flanggut",
                 "repo": "smvs",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": null,
@@ -373,7 +393,8 @@
                 "owner": "JakobEngel",
                 "repo": "dso",
                 "stars": 2454
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -388,7 +409,8 @@
                 "owner": "plumonito",
                 "repo": "dtslam",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -403,7 +425,8 @@
                 "owner": "tum-vision",
                 "repo": "lsd_slam",
                 "stars": 2724
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -417,8 +440,9 @@
                 "last_commit": "2024-05-31T08:49:33Z",
                 "owner": "ethz-asl",
                 "repo": "maplab",
-                "stars": 2867
-              }
+                "stars": 2868
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -432,8 +456,9 @@
                 "last_commit": "2021-08-24T10:19:14Z",
                 "owner": "ethz-asl",
                 "repo": "okvis",
-                "stars": 1366
-              }
+                "stars": 1367
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -448,7 +473,8 @@
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
                 "stars": 10223
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -463,7 +489,8 @@
                 "owner": "JuanTarrio",
                 "repo": "rebvo",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -477,8 +504,9 @@
                 "last_commit": "2019-08-22T21:27:36Z",
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2229
-              }
+                "stars": 2230
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": null,
@@ -500,7 +528,8 @@
                 "owner": "dorian3d",
                 "repo": "DBoW2",
                 "stars": 944
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -515,7 +544,8 @@
                 "owner": "hlzz",
                 "repo": "libvot",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -530,7 +560,8 @@
                 "owner": "snavely",
                 "repo": "VocabTree2",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": null,
@@ -551,8 +582,9 @@
                 "last_commit": "2026-08-19T16:02:05Z",
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4547
-              }
+                "stars": 4548
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -567,7 +599,8 @@
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
                 "stars": 3461
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": null,
@@ -588,8 +621,9 @@
                 "last_commit": "2025-10-29T14:08:37Z",
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14289
-              }
+                "stars": 14290
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -604,7 +638,8 @@
                 "owner": "norlab-ulaval",
                 "repo": "libnabo",
                 "stars": 488
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -618,8 +653,9 @@
                 "last_commit": "2026-08-25T20:16:26Z",
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
-                "stars": 2672
-              }
+                "stars": 2674
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": null,
@@ -640,8 +676,9 @@
                 "last_commit": "2022-01-03T03:31:55Z",
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6197
-              }
+                "stars": 6198
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -656,7 +693,8 @@
                 "owner": "microsoft",
                 "repo": "Mesh-processing-library",
                 "stars": 535
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -667,11 +705,12 @@
                 "archived": false,
                 "id": 75413130,
                 "language": "C++",
-                "last_commit": "2026-08-27T06:32:17Z",
+                "last_commit": "2026-08-28T07:07:39Z",
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13917
-              }
+                "stars": 13924
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": null,
@@ -699,7 +738,8 @@
                 "owner": "pablofdezalc",
                 "repo": "akaze",
                 "stars": 415
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -714,7 +754,8 @@
                 "owner": "pablofdezalc",
                 "repo": "kaze",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -729,7 +770,8 @@
                 "owner": "foelin",
                 "repo": "IntensityOrderFeature",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             },
             {
               "node_type": "item",
@@ -744,7 +786,8 @@
                 "owner": "cvlab-epfl",
                 "repo": "LIFT",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T13:48:30.955Z"
             }
           ],
           "description": "From handcrafted to deep local features. G. Csurka, C. R. Dance, M. Humenberger. 2018.",
@@ -756,7 +799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:22:12.825Z",
+    "last_updated": "2026-08-28T13:48:30.955Z",
     "original_repository_info": {
       "archived": false,
       "id": 65994875,
@@ -764,7 +807,7 @@
       "last_commit": "2021-10-12T04:37:11Z",
       "owner": "openMVG",
       "repo": "awesome_3DReconstruction_list",
-      "stars": 4418
+      "stars": 4419
     },
     "original_repository_sha": "c779e883aeac478b32b342dd9482e7c424b13526",
     "enhanced_repository": "enhansome/enhansome_3DReconstruction_list",
