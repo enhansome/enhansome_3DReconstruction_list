@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Direct Sparse Mapping",
+                    "homepage": null,
                     "id": 181082592,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-04-08T16:51:33Z",
+                    "open_issues": 8,
                     "owner": "jzubizarreta",
                     "repo": "dsm",
-                    "stars": 459
+                    "stars": 459,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:48:30.955Z"
                 },
@@ -30,12 +35,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "OpenVSLAM: A Versatile Visual SLAM Framework",
+                    "homepage": "https://openvslam.readthedocs.io/",
                     "id": 183462315,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-02-25T06:32:26Z",
+                    "open_issues": 207,
                     "owner": "xdspacelab",
                     "repo": "openvslam",
-                    "stars": 2976
+                    "stars": 2976,
+                    "topics": [
+                      "computer-vision",
+                      "fisheye",
+                      "panorama",
+                      "robotics",
+                      "slam",
+                      "visual-odometry",
+                      "visual-slam",
+                      "vr",
+                      "vslam"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:48:30.955Z"
                 }
@@ -60,12 +80,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches",
+                    "homepage": null,
                     "id": 43210518,
                     "language": "Cuda",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2018-01-25T21:47:39Z",
+                    "open_issues": 43,
                     "owner": "jzbontar",
                     "repo": "mc-cnn",
-                    "stars": 726
+                    "stars": 726,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:48:30.955Z"
                 },
@@ -76,12 +101,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "2017 ICCV, SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis",
+                    "homepage": null,
                     "id": 99289655,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-07-14T07:04:53Z",
+                    "open_issues": 8,
                     "owner": "mjiUST",
                     "repo": "SurfaceNet",
-                    "stars": 124
+                    "stars": 124,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:48:30.955Z"
                 },
@@ -92,12 +122,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DeepMVS: Learning Multi-View Stereopsis",
+                    "homepage": "https://phuang17.github.io/DeepMVS/index.html",
                     "id": 120556270,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2022-05-09T12:53:21Z",
+                    "open_issues": 12,
                     "owner": "phuang17",
                     "repo": "DeepMVS",
-                    "stars": 354
+                    "stars": 354,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:48:30.955Z"
                 },
@@ -108,12 +143,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV'21] UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction",
+                    "homepage": null,
                     "id": 404249556,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-02T19:18:48Z",
+                    "open_issues": 17,
                     "owner": "autonomousvision",
                     "repo": "unisurf",
-                    "stars": 422
+                    "stars": 422,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:48:30.955Z"
                 }
@@ -142,12 +182,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bundler Structure from Motion Toolkit",
+                "homepage": null,
                 "id": 8680692,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-05-13T15:27:18Z",
+                "open_issues": 40,
                 "owner": "snavely",
                 "repo": "bundler_sfm",
-                "stars": 1578
+                "stars": 1578,
+                "topics": [
+                  "3d-reconstruction",
+                  "3d-vision",
+                  "bundle-adjustment",
+                  "computer-vision",
+                  "computer-vision-tools",
+                  "structure-from-motion"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -158,12 +210,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+                "homepage": "https://colmap.github.io/",
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-28T13:26:56Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:35:11Z",
+                "open_issues": 704,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12581
+                "stars": 12584,
+                "topics": [
+                  "computer-vision",
+                  "geometry",
+                  "multi-view-stereo",
+                  "reconstruction",
+                  "structure-from-motion"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -174,12 +237,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TeleSculptor: Aerial Photogrammetry Application powered by KWIVER",
+                "homepage": null,
                 "id": 19784494,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-22T15:21:20Z",
+                "open_issues": 42,
                 "owner": "Kitware",
                 "repo": "TeleSculptor",
-                "stars": 650
+                "stars": 650,
+                "topics": [
+                  "aerial-imagery",
+                  "c-plus-plus",
+                  "gui-application",
+                  "kitware",
+                  "kwiver",
+                  "photogrammetry"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -190,12 +265,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Multi-View Environment: End-to-end image-based reconstruction (SfM, MVS, surface reconstruction)",
+                "homepage": null,
                 "id": 4160797,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-31T15:40:22Z",
+                "open_issues": 5,
                 "owner": "simonfuhrmann",
                 "repo": "mve",
-                "stars": 1059
+                "stars": 1059,
+                "topics": [
+                  "image-based-reconstruction",
+                  "multi-view-stereo",
+                  "mvs",
+                  "sfm",
+                  "structure-from-motion",
+                  "surface-reconstruction"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -206,12 +293,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.",
+                "homepage": null,
                 "id": 8096326,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2025-12-17T00:44:42Z",
+                "open_issues": 312,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6544
+                "stars": 6544,
+                "topics": [
+                  "3d-reconstruction",
+                  "computer-vision",
+                  "drone",
+                  "geometry",
+                  "multiple-view-geometry",
+                  "openmvg",
+                  "photogrammetry",
+                  "sfm",
+                  "structure-from-motion"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -222,12 +324,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Structure-from-Motion pipeline",
+                "homepage": "https://www.opensfm.org/",
                 "id": 26531519,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-25T22:56:54Z",
+                "open_issues": 232,
                 "owner": "mapillary",
                 "repo": "OpenSfM",
-                "stars": 3795
+                "stars": 3795,
+                "topics": [
+                  "3d-reconstruction",
+                  "opencv",
+                  "python",
+                  "sfm"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -238,12 +350,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source library for multiview geometry and structure from motion",
+                "homepage": null,
                 "id": 30662167,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-03T19:08:29Z",
+                "open_issues": 46,
                 "owner": "sweeneychris",
                 "repo": "TheiaSfM",
-                "stars": 945
+                "stars": 945,
+                "topics": [
+                  "computer-vision",
+                  "geometry",
+                  "structure-from-motion"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -261,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenGV is a collection of computer vision methods for solving geometric vision problems. It is hosted and maintained by the Mobile Perception Lab of ShanghaiTech.",
+                "homepage": null,
                 "id": 12015273,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-07T18:14:14Z",
+                "open_issues": 59,
                 "owner": "laurentkneip",
                 "repo": "opengv",
-                "stars": 1126
+                "stars": 1127,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -284,12 +410,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+                "homepage": "https://colmap.github.io/",
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-28T13:26:56Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:35:11Z",
+                "open_issues": 704,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12581
+                "stars": 12584,
+                "topics": [
+                  "computer-vision",
+                  "geometry",
+                  "multi-view-stereo",
+                  "reconstruction",
+                  "structure-from-motion"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -300,12 +437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progressive Prioritized Multi-view Stereo",
+                "homepage": null,
                 "id": 55901273,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-03-08T16:06:45Z",
+                "open_issues": 4,
                 "owner": "alexlocher",
                 "repo": "hpmvs",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -316,12 +458,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Multi-View Environment: End-to-end image-based reconstruction (SfM, MVS, surface reconstruction)",
+                "homepage": null,
                 "id": 4160797,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-31T15:40:22Z",
+                "open_issues": 5,
                 "owner": "simonfuhrmann",
                 "repo": "mve",
-                "stars": 1059
+                "stars": 1059,
+                "topics": [
+                  "image-based-reconstruction",
+                  "multi-view-stereo",
+                  "mvs",
+                  "sfm",
+                  "structure-from-motion",
+                  "surface-reconstruction"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -332,12 +486,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open Multi-View Stereo reconstruction library",
+                "homepage": "http://cdcseacave.github.io",
                 "id": 35825593,
                 "language": "C++",
-                "last_commit": "2026-08-28T11:43:01Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T16:41:16Z",
+                "open_issues": 381,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4102
+                "stars": 4103,
+                "topics": [
+                  "3d-reconstruction",
+                  "dense-point-cloud",
+                  "dense-reconstruction",
+                  "mesh",
+                  "multi-view-stereo",
+                  "openmvs",
+                  "patch-match",
+                  "point-cloud",
+                  "refinement",
+                  "semi-global-matching",
+                  "sgm",
+                  "stereo",
+                  "stereo-matching",
+                  "stereo-reconstruction-library",
+                  "stereo-vision",
+                  "surface",
+                  "texture"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -348,12 +525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This software (CMVS) takes the output of a structure-from-motion (SfM) software as input, then decomposes the input images into a set of image clusters of managable size. An MVS software can be used to process each cluster independently and in parallel, where the union of reconstructions from all the clusters should not miss any details that can be otherwise obtained from the whole image set. CMVS should be used in conjunction with an SfM software Bundler and an MVS software PMVS2 (PMVS version 2).",
+                "homepage": "http://opensourcephotogrammetry.blogspot.com/",
                 "id": 1468022,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-12-13T23:40:32Z",
+                "open_issues": 7,
                 "owner": "pmoulon",
                 "repo": "CMVS-PMVS",
-                "stars": 961
+                "stars": 961,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -364,12 +546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shading-aware Multi-view Stereo",
+                "homepage": null,
                 "id": 63158938,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-04-25T11:02:33Z",
+                "open_issues": 2,
                 "owner": "flanggut",
                 "repo": "smvs",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -387,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Direct Sparse Odometry",
+                "homepage": null,
                 "id": 73256421,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-23T16:15:26Z",
+                "open_issues": 138,
                 "owner": "JakobEngel",
                 "repo": "dso",
-                "stars": 2454
+                "stars": 2454,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -403,12 +595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deferred Triangulation SLAM",
+                "homepage": null,
                 "id": 25522008,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-04-03T11:01:37Z",
+                "open_issues": 3,
                 "owner": "plumonito",
                 "repo": "dtslam",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -419,12 +616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LSD-SLAM",
+                "homepage": null,
                 "id": 23995982,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-23T14:55:27Z",
+                "open_issues": 240,
                 "owner": "tum-vision",
                 "repo": "lsd_slam",
-                "stars": 2724
+                "stars": 2724,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -435,12 +637,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Modular and Multi-Modal Mapping Framework",
+                "homepage": "https://maplab.asl.ethz.ch",
                 "id": 112253403,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-31T08:49:33Z",
+                "open_issues": 123,
                 "owner": "ethz-asl",
                 "repo": "maplab",
-                "stars": 2868
+                "stars": 2868,
+                "topics": [
+                  "mapping",
+                  "not-matlab",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -451,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OKVIS: Open Keyframe-based Visual-Inertial SLAM.",
+                "homepage": null,
                 "id": 51096220,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-24T10:19:14Z",
+                "open_issues": 67,
                 "owner": "ethz-asl",
                 "repo": "okvis",
-                "stars": 1367
+                "stars": 1367,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -467,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",
+                "homepage": null,
                 "id": 50255244,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-15T07:48:28Z",
+                "open_issues": 805,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10223
+                "stars": 10224,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -483,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Realtime Edge Based Visual Odometry for a Monocular Camera",
+                "homepage": " http://juantarrio.github.io/rebvo",
                 "id": 51785337,
                 "language": "Objective-C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-16T20:55:34Z",
+                "open_issues": 11,
                 "owner": "JuanTarrio",
                 "repo": "rebvo",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -499,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semi-direct Visual Odometry",
+                "homepage": null,
                 "id": 17672262,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-22T21:27:36Z",
+                "open_issues": 193,
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2230
+                "stars": 2230,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -522,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhanced hierarchical bag-of-word library for C++",
+                "homepage": null,
                 "id": 25787949,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-24T11:28:16Z",
+                "open_issues": 30,
                 "owner": "dorian3d",
                 "repo": "DBoW2",
-                "stars": 944
+                "stars": 944,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -538,12 +774,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++11 multithread library for image retrieval",
+                "homepage": "http://hlzz.github.io/libvot",
                 "id": 33583947,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-06-10T14:58:44Z",
+                "open_issues": 3,
                 "owner": "hlzz",
                 "repo": "libvot",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "algorithm",
+                  "c-plus-plus",
+                  "computer-vision",
+                  "image-retrieval",
+                  "tree"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -554,12 +801,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vocabulary Tree Code",
+                "homepage": null,
                 "id": 8675339,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-08-22T20:36:33Z",
+                "open_issues": 8,
                 "owner": "snavely",
                 "repo": "VocabTree2",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -577,12 +829,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A large scale non-linear optimization library",
+                "homepage": "http://ceres-solver.org/",
                 "id": 15667250,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T16:02:05Z",
+                "open_issues": 68,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4548
+                "stars": 4548,
+                "topics": [
+                  "bfgs",
+                  "bundle-adjustment",
+                  "c-plus-plus",
+                  "computer-vision",
+                  "conjugate-gradient",
+                  "gauss-newton",
+                  "l-bfgs",
+                  "levenberg-marquardt",
+                  "nonlinear-least-squares",
+                  "nonlinear-optimization-algorithms",
+                  "nonlinear-programming",
+                  "numerical-optimization",
+                  "structure-from-motion",
+                  "trust-region"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -593,12 +865,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "g2o: A General Framework for Graph Optimization",
+                "homepage": null,
                 "id": 3161336,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-24T19:33:04Z",
+                "open_issues": 7,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3461
+                "stars": 3461,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "g2o",
+                  "graph-optimization",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -616,12 +899,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk",
+                "homepage": null,
                 "id": 9155431,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-29T14:08:37Z",
+                "open_issues": 86,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14290
+                "stars": 14292,
+                "topics": [
+                  "approximate-nearest-neighbor-search",
+                  "c-plus-plus",
+                  "golang",
+                  "locality-sensitive-hashing",
+                  "lua",
+                  "nearest-neighbor-search",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -632,12 +928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast K Nearest Neighbor library for low-dimensional spaces",
+                "homepage": "http://norlab-ulaval.github.io/libnabo/",
                 "id": 924286,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-07-16T14:47:06Z",
+                "open_issues": 37,
                 "owner": "norlab-ulaval",
                 "repo": "libnabo",
-                "stars": 488
+                "stars": 488,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -648,12 +949,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees",
+                "homepage": null,
                 "id": 19349382,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T20:16:26Z",
+                "open_issues": 42,
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
-                "stars": 2674
+                "stars": 2675,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "kd-trees",
+                  "nanoflann",
+                  "point-clouds"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -671,12 +983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive field-aligned mesh generator",
+                "homepage": null,
                 "id": 42442099,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-03T03:31:55Z",
+                "open_issues": 97,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6198
+                "stars": 6198,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -687,12 +1004,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "C++ library and programs that demonstrate mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998",
+                "homepage": null,
                 "id": 57255972,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2016-11-04T22:18:47Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "Mesh-processing-library",
-                "stars": 535
+                "stars": 535,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -703,12 +1025,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open3D: A Modern Library for 3D Data Processing",
+                "homepage": "http://www.open3d.org",
                 "id": 75413130,
                 "language": "C++",
-                "last_commit": "2026-08-28T07:07:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:56:11Z",
+                "open_issues": 1304,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13924
+                "stars": 13925,
+                "topics": [
+                  "3d",
+                  "3d-perception",
+                  "arm",
+                  "computer-graphics",
+                  "cpp",
+                  "cuda",
+                  "gpu",
+                  "gui",
+                  "machine-learning",
+                  "mesh-processing",
+                  "odometry",
+                  "opengl",
+                  "pointcloud",
+                  "python",
+                  "pytorch",
+                  "reconstruction",
+                  "registration",
+                  "rendering",
+                  "tensorflow",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -732,12 +1080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accelerated-KAZE Features",
+                "homepage": "http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html",
                 "id": 14303396,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-08-07T09:36:06Z",
+                "open_issues": 17,
                 "owner": "pablofdezalc",
                 "repo": "akaze",
-                "stars": 415
+                "stars": 415,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -748,12 +1101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KAZE Features",
+                "homepage": null,
                 "id": 14313688,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-01-09T13:40:07Z",
+                "open_issues": 6,
                 "owner": "pablofdezalc",
                 "repo": "kaze",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -764,12 +1122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intensity Order based Local Features (LIOP, OIOP, MIOP)",
+                "homepage": null,
                 "id": 52495796,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-02-29T03:07:48Z",
+                "open_issues": 2,
                 "owner": "foelin",
                 "repo": "IntensityOrderFeature",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             },
@@ -780,12 +1143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for the ECCV 2016 paper",
+                "homepage": null,
                 "id": 63952900,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-06T13:55:43Z",
+                "open_issues": 1,
                 "owner": "cvlab-epfl",
                 "repo": "LIFT",
-                "stars": 494
+                "stars": 494,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
             }
@@ -799,15 +1167,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:48:30.955Z",
+    "last_updated": "2026-08-29T04:18:58.741Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
+      "homepage": null,
       "id": 65994875,
       "language": null,
+      "license": null,
       "last_commit": "2021-10-12T04:37:11Z",
+      "open_issues": 6,
       "owner": "openMVG",
       "repo": "awesome_3DReconstruction_list",
-      "stars": 4419
+      "stars": 4419,
+      "topics": [
+        "3d-reconstruction",
+        "awesome-list",
+        "computer-vision",
+        "motion-estimation",
+        "multiple-view-geometry",
+        "opensource",
+        "stereo-vision"
+      ]
     },
     "original_repository_sha": "c779e883aeac478b32b342dd9482e7c424b13526",
     "enhanced_repository": "enhansome/enhansome_3DReconstruction_list",
