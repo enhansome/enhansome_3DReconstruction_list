@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T15:35:11Z",
+                "last_commit": "2026-08-29T06:56:34Z",
                 "open_issues": 704,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12584,
+                "stars": 12587,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -302,7 +302,7 @@
                 "open_issues": 312,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6544,
+                "stars": 6545,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T15:35:11Z",
+                "last_commit": "2026-08-29T06:56:34Z",
                 "open_issues": 704,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12584,
+                "stars": 12587,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -958,7 +958,7 @@
                 "open_issues": 42,
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
-                "stars": 2675,
+                "stars": 2676,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -1030,7 +1030,7 @@
                 "id": 75413130,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T21:56:11Z",
+                "last_commit": "2026-08-29T07:09:51Z",
                 "open_issues": 1304,
                 "owner": "isl-org",
                 "repo": "Open3D",
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:58.741Z",
+    "last_updated": "2026-08-29T08:39:10.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
