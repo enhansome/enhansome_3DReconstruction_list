@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T21:07:34Z",
-                "open_issues": 705,
+                "last_commit": "2026-09-06T22:45:09Z",
+                "open_issues": 707,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12655,
+                "stars": 12662,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T21:07:34Z",
-                "open_issues": 705,
+                "last_commit": "2026-09-06T22:45:09Z",
+                "open_issues": 707,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12655,
+                "stars": 12662,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -692,7 +692,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10231,
+                "stars": 10234,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -908,7 +908,7 @@
                 "open_issues": 86,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14293,
+                "stars": 14294,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -992,7 +992,7 @@
                 "open_issues": 97,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6203,
+                "stars": 6204,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1030,11 +1030,11 @@
                 "id": 75413130,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T22:39:37Z",
-                "open_issues": 1306,
+                "last_commit": "2026-09-07T06:52:39Z",
+                "open_issues": 1305,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13940,
+                "stars": 13942,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:52:42.910Z",
+    "last_updated": "2026-09-07T07:01:50.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
