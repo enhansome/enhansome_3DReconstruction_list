@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T15:52:53Z",
-                "open_issues": 711,
+                "last_commit": "2026-09-12T06:39:13Z",
+                "open_issues": 709,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12686,
+                "stars": 12691,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -302,7 +302,7 @@
                 "open_issues": 311,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6554,
+                "stars": 6557,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T15:52:53Z",
-                "open_issues": 711,
+                "last_commit": "2026-09-12T06:39:13Z",
+                "open_issues": 709,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12686,
+                "stars": 12691,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -491,8 +491,8 @@
                 "id": 35825593,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T22:27:34Z",
-                "open_issues": 381,
+                "last_commit": "2026-09-12T00:48:39Z",
+                "open_issues": 362,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
                 "stars": 4120,
@@ -646,7 +646,7 @@
                 "open_issues": 123,
                 "owner": "ethz-asl",
                 "repo": "maplab",
-                "stars": 2871,
+                "stars": 2872,
                 "topics": [
                   "mapping",
                   "not-matlab",
@@ -838,7 +838,7 @@
                 "open_issues": 65,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4560,
+                "stars": 4561,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -908,7 +908,7 @@
                 "open_issues": 86,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14297,
+                "stars": 14299,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -954,7 +954,7 @@
                 "id": 19349382,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-25T20:16:26Z",
+                "last_commit": "2026-09-12T00:41:31Z",
                 "open_issues": 42,
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
@@ -992,7 +992,7 @@
                 "open_issues": 97,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6211,
+                "stars": 6212,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1030,11 +1030,11 @@
                 "id": 75413130,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T05:14:54Z",
-                "open_issues": 1316,
+                "last_commit": "2026-09-12T04:24:53Z",
+                "open_issues": 1317,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13953,
+                "stars": 13955,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:01:25.955Z",
+    "last_updated": "2026-09-12T06:53:25.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
