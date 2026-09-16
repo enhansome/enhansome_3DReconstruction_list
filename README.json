@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T18:18:25Z",
-                "open_issues": 716,
+                "last_commit": "2026-09-16T07:01:18Z",
+                "open_issues": 712,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12712,
+                "stars": 12723,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -246,7 +246,7 @@
                 "open_issues": 42,
                 "owner": "Kitware",
                 "repo": "TeleSculptor",
-                "stars": 651,
+                "stars": 652,
                 "topics": [
                   "aerial-imagery",
                   "c-plus-plus",
@@ -302,7 +302,7 @@
                 "open_issues": 311,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6557,
+                "stars": 6558,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -359,7 +359,7 @@
                 "open_issues": 46,
                 "owner": "sweeneychris",
                 "repo": "TheiaSfM",
-                "stars": 945,
+                "stars": 946,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T18:18:25Z",
-                "open_issues": 716,
+                "last_commit": "2026-09-16T07:01:18Z",
+                "open_issues": 712,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12712,
+                "stars": 12723,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -491,11 +491,11 @@
                 "id": 35825593,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-14T17:08:06Z",
+                "last_commit": "2026-09-15T19:08:34Z",
                 "open_issues": 6,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4126,
+                "stars": 4125,
                 "topics": [
                   "3d-reconstruction",
                   "dense-point-cloud",
@@ -992,7 +992,7 @@
                 "open_issues": 97,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6217,
+                "stars": 6220,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1030,11 +1030,11 @@
                 "id": 75413130,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T05:55:37Z",
+                "last_commit": "2026-09-16T06:38:05Z",
                 "open_issues": 1316,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13961,
+                "stars": 13966,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:13:43.541Z",
+    "last_updated": "2026-09-16T07:16:34.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
@@ -1179,7 +1179,7 @@
       "open_issues": 6,
       "owner": "openMVG",
       "repo": "awesome_3DReconstruction_list",
-      "stars": 4421,
+      "stars": 4422,
       "topics": [
         "3d-reconstruction",
         "awesome-list",
