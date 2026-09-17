@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T07:01:18Z",
-                "open_issues": 712,
+                "last_commit": "2026-09-16T18:17:04Z",
+                "open_issues": 710,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12723,
+                "stars": 12740,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T07:01:18Z",
-                "open_issues": 712,
+                "last_commit": "2026-09-16T18:17:04Z",
+                "open_issues": 710,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12723,
+                "stars": 12740,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -491,7 +491,7 @@
                 "id": 35825593,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-15T19:08:34Z",
+                "last_commit": "2026-09-16T12:03:40Z",
                 "open_issues": 6,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
@@ -692,7 +692,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10232,
+                "stars": 10236,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -838,7 +838,7 @@
                 "open_issues": 65,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4563,
+                "stars": 4565,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -874,7 +874,7 @@
                 "open_issues": 6,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3466,
+                "stars": 3467,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -908,7 +908,7 @@
                 "open_issues": 86,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14299,
+                "stars": 14298,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -958,7 +958,7 @@
                 "open_issues": 43,
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
-                "stars": 2685,
+                "stars": 2686,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -992,7 +992,7 @@
                 "open_issues": 97,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6220,
+                "stars": 6222,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1030,11 +1030,11 @@
                 "id": 75413130,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T06:38:05Z",
+                "last_commit": "2026-09-16T21:38:20Z",
                 "open_issues": 1316,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13966,
+                "stars": 13969,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:16:34.454Z",
+    "last_updated": "2026-09-17T07:11:57.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
