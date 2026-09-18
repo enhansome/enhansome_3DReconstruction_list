@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T18:17:04Z",
-                "open_issues": 710,
+                "last_commit": "2026-09-17T18:02:54Z",
+                "open_issues": 711,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12740,
+                "stars": 12753,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T18:17:04Z",
-                "open_issues": 710,
+                "last_commit": "2026-09-17T18:02:54Z",
+                "open_issues": 711,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12740,
+                "stars": 12753,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -646,7 +646,7 @@
                 "open_issues": 123,
                 "owner": "ethz-asl",
                 "repo": "maplab",
-                "stars": 2873,
+                "stars": 2874,
                 "topics": [
                   "mapping",
                   "not-matlab",
@@ -671,7 +671,7 @@
                 "open_issues": 67,
                 "owner": "ethz-asl",
                 "repo": "okvis",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -908,7 +908,7 @@
                 "open_issues": 86,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14298,
+                "stars": 14300,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -937,7 +937,7 @@
                 "open_issues": 37,
                 "owner": "norlab-ulaval",
                 "repo": "libnabo",
-                "stars": 488,
+                "stars": 489,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -954,7 +954,7 @@
                 "id": 19349382,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T00:41:31Z",
+                "last_commit": "2026-09-17T15:48:36Z",
                 "open_issues": 43,
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
@@ -992,7 +992,7 @@
                 "open_issues": 97,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6222,
+                "stars": 6223,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1031,10 +1031,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T21:38:20Z",
-                "open_issues": 1316,
+                "open_issues": 1321,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 13969,
+                "stars": 13975,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:11:57.950Z",
+    "last_updated": "2026-09-18T07:05:36.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
