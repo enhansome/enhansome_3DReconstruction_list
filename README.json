@@ -219,7 +219,7 @@
                 "open_issues": 715,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12850,
+                "stars": 12851,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -333,7 +333,7 @@
                 "open_issues": 232,
                 "owner": "mapillary",
                 "repo": "OpenSfM",
-                "stars": 3804,
+                "stars": 3805,
                 "topics": [
                   "3d-reconstruction",
                   "opencv",
@@ -419,7 +419,7 @@
                 "open_issues": 715,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12850,
+                "stars": 12851,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -841,7 +841,7 @@
                 "open_issues": 64,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4573,
+                "stars": 4574,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -911,7 +911,7 @@
                 "open_issues": 89,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14310,
+                "stars": 14311,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -1037,7 +1037,7 @@
                 "open_issues": 1345,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14024,
+                "stars": 14025,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:03.981Z",
+    "last_updated": "2026-10-03T07:37:47.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
