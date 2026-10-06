@@ -7,7 +7,7 @@
 * **This list is not exhaustive,**
 * **Tables use alphabetical order for fairness.**
 
-> If you look to a more generic computer vision awesome list please check [this list](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,587 | 🐛 99 | 📅 2024-05-17
+> If you look to a more generic computer vision awesome list please check [this list](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,589 | 🐛 99 | 📅 2024-05-17
 
 ## Contents
 
@@ -359,13 +359,13 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 | Project                                                                                           | Language | License                                              |
 | ------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- |
-| [Bundler](https://github.com/snavely/bundler_sfm) ⭐ 1,579 \| 🐛 40 \| 🌐 C \| 📅 2019-05-13       | C++      | GNU General Public License - contamination           |
-| [Colmap](https://github.com/colmap/colmap) ⭐ 12,858 \| 🐛 721 \| 🌐 C++ \| 📅 2026-10-04          | C++      | BSD 3-clause license - Permissive                    |
+| [Bundler](https://github.com/snavely/bundler_sfm) ⭐ 1,580 \| 🐛 40 \| 🌐 C \| 📅 2019-05-13       | C++      | GNU General Public License - contamination           |
+| [Colmap](https://github.com/colmap/colmap) ⭐ 12,862 \| 🐛 721 \| 🌐 C++ \| 📅 2026-10-05          | C++      | BSD 3-clause license - Permissive                    |
 | [TeleSculptor](https://github.com/Kitware/TeleSculptor) ⭐ 651 \| 🐛 42 \| 🌐 C++ \| 📅 2024-05-22 | C++      | BSD 3-Clause license - Permissive                    |
 | [MicMac](https://github.com/micmacIGN)                                                            | C++      | CeCILL-B                                             |
 | [MVE](https://github.com/simonfuhrmann/mve) ⭐ 1,062 \| 🐛 5 \| 🌐 C++ \| 📅 2026-05-31            | C++      | BSD 3-Clause license + parts under the GPL 3 license |
-| [OpenMVG](https://github.com/openMVG/openMVG) ⭐ 6,564 \| 🐛 311 \| 🌐 C++ \| 📅 2026-08-30        | C++      | MPL2 - Permissive                                    |
-| [OpenSfM](https://github.com/mapillary/OpenSfM/) ⭐ 3,805 \| 🐛 232 \| 🌐 Python \| 📅 2026-10-02  | Python   | Simplified BSD license - Permissive                  |
+| [OpenMVG](https://github.com/openMVG/openMVG) ⭐ 6,566 \| 🐛 311 \| 🌐 C++ \| 📅 2026-08-30        | C++      | MPL2 - Permissive                                    |
+| [OpenSfM](https://github.com/mapillary/OpenSfM/) ⭐ 3,805 \| 🐛 232 \| 🌐 Python \| 📅 2026-10-05  | Python   | Simplified BSD license - Permissive                  |
 | [TheiaSfM](https://github.com/sweeneychris/TheiaSfM) ⭐ 946 \| 🐛 46 \| 🌐 C++ \| 📅 2023-04-03    | C++      | New BSD license - Permissive                         |
 
 <a name="opensource-solvers"></a>
@@ -374,7 +374,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 | Project                                                                                      | Language | License          |
 | -------------------------------------------------------------------------------------------- | -------- | ---------------- |
-| [OpenGV](https://github.com/laurentkneip/opengv) ⭐ 1,132 \| 🐛 59 \| 🌐 C++ \| 📅 2023-06-07 | C++      | BSD - permissive |
+| [OpenGV](https://github.com/laurentkneip/opengv) ⭐ 1,132 \| 🐛 60 \| 🌐 C++ \| 📅 2023-06-07 | C++      | BSD - permissive |
 
 <a name="opensource-mvs"></a>
 
@@ -382,13 +382,13 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 | Project                                                                                                           | Language             | License                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------- |
-| [Colmap](https://github.com/colmap/colmap) ⭐ 12,858 \| 🐛 721 \| 🌐 C++ \| 📅 2026-10-04                          | C++ CUDA             | BSD 3-clause license - Permissive (Can use CGAL -> GNU General Public License - contamination) |
+| [Colmap](https://github.com/colmap/colmap) ⭐ 12,862 \| 🐛 721 \| 🌐 C++ \| 📅 2026-10-05                          | C++ CUDA             | BSD 3-clause license - Permissive (Can use CGAL -> GNU General Public License - contamination) |
 | [GPUIma + fusibile](https://github.com/kysucix)                                                                   | C++ CUDA             | GNU General Public License - contamination                                                     |
 | [HPMVS](https://github.com/alexlocher/hpmvs) ⭐ 95 \| 🐛 4 \| 🌐 C++ \| 📅 2018-03-08                              | C++                  | GNU General Public License - contamination                                                     |
 | [MICMAC](http://logiciels.ign.fr/?Micmac)                                                                         | C++                  | CeCILL-B                                                                                       |
 | [MVE](https://github.com/simonfuhrmann/mve) ⭐ 1,062 \| 🐛 5 \| 🌐 C++ \| 📅 2026-05-31                            | C++                  | BSD 3-Clause license + parts under the GPL 3 license                                           |
-| [OpenMVS](https://github.com/cdcseacave/openMVS/) ⭐ 4,144 \| 🐛 8 \| 🌐 C++ \| 📅 2026-10-01                      | C++  (CUDA optional) | AGPL3                                                                                          |
-| [PMVS](https://github.com/pmoulon/CMVS-PMVS) ⭐ 961 \| 🐛 7 \| 🌐 C++ \| 📅 2019-12-13                             | C++ CUDA             | GNU General Public License - contamination                                                     |
+| [OpenMVS](https://github.com/cdcseacave/openMVS/) ⭐ 4,146 \| 🐛 8 \| 🌐 C++ \| 📅 2026-10-06                      | C++  (CUDA optional) | AGPL3                                                                                          |
+| [PMVS](https://github.com/pmoulon/CMVS-PMVS) ⭐ 962 \| 🐛 7 \| 🌐 C++ \| 📅 2019-12-13                             | C++ CUDA             | GNU General Public License - contamination                                                     |
 | [SMVS Shading-aware Multi-view Stereo](https://github.com/flanggut/smvs) ⭐ 254 \| 🐛 2 \| 🌐 C++ \| 📅 2022-04-25 | C++                  | BSD-3-Clause license                                                                           |
 
 <a name="opensource-slam"></a>
@@ -398,7 +398,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 | Project                                                                                                                                                     | Language | License                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- |
 | [COSLAM](http://drone.sjtu.edu.cn/dpzou/project/coslam.php)                                                                                                 | C++      | GNU General Public License |
-| [DSO-Direct Sparse Odometry](https://github.com/JakobEngel/dso) ⭐ 2,459 \| 🐛 138 \| 🌐 C++ \| 📅 2024-02-23                                                | C++      | GPLv3                      |
+| [DSO-Direct Sparse Odometry](https://github.com/JakobEngel/dso) ⭐ 2,460 \| 🐛 138 \| 🌐 C++ \| 📅 2024-02-23                                                | C++      | GPLv3                      |
 | [DTSLAM-Deferred Triangulation SLAM](https://github.com/plumonito/dtslam) ⭐ 133 \| 🐛 3 \| 🌐 C++ \| 📅 2017-04-03                                          | C++      | modified BSD               |
 | [LSD-SLAM](https://github.com/tum-vision/lsd_slam/) ⭐ 2,730 \| 🐛 240 \| 🌐 C++ \| 📅 2023-03-23                                                            | C++/ROS  | GNU General Public License |
 | [MAPLAB-ROVIOLI](https://github.com/ethz-asl/maplab) ⭐ 2,879 \| 🐛 123 \| 🌐 C++ \| 📅 2024-05-31                                                           | C++/ROS  | Apachev2.0                 |
@@ -413,7 +413,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 | Project                                                                                     | Language | License              |
 | ------------------------------------------------------------------------------------------- | -------- | -------------------- |
-| [DBoW2](https://github.com/dorian3d/DBoW2) ⭐ 946 \| 🐛 30 \| 🌐 C++ \| 📅 2021-11-24        | C++      | modified BSD License |
+| [DBoW2](https://github.com/dorian3d/DBoW2) ⭐ 946 \| 🐛 31 \| 🌐 C++ \| 📅 2021-11-24        | C++      | modified BSD License |
 | [libvot](https://github.com/hlzz/libvot) ⭐ 179 \| 🐛 3 \| 🌐 C++ \| 📅 2019-06-10           | C++      | BSD 3-Clause License |
 | [VocabTree2](https://github.com/snavely/VocabTree2) ⭐ 70 \| 🐛 8 \| 🌐 C++ \| 📅 2016-08-22 | C++      | BSD License          |
 
@@ -423,9 +423,9 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 | Project                                                                                                  | Language | License                          |
 | -------------------------------------------------------------------------------------------------------- | -------- | -------------------------------- |
-| [CERES SOLVER](https://github.com/ceres-solver/ceres-solver) ⭐ 4,577 \| 🐛 64 \| 🌐 C++ \| 📅 2026-10-05 | C++      | BSD License                      |
+| [CERES SOLVER](https://github.com/ceres-solver/ceres-solver) ⭐ 4,578 \| 🐛 64 \| 🌐 C++ \| 📅 2026-10-06 | C++      | BSD License                      |
 | [GTSAM](https://collab.cc.gatech.edu/borg/gtsam)                                                         | C++      | BSD License                      |
-| [G2O](https://github.com/RainerKuemmerle/g2o) ⭐ 3,469 \| 🐛 5 \| 🌐 C++ \| 📅 2026-09-28                 | C++      | BSD License + L/GPL3 restriction |
+| [G2O](https://github.com/RainerKuemmerle/g2o) ⭐ 3,470 \| 🐛 5 \| 🌐 C++ \| 📅 2026-10-05                 | C++      | BSD License + L/GPL3 restriction |
 | [NLOPT](http://ab-initio.mit.edu/wiki/index.php/NLopt)                                                   | C++      | LGPL                             |
 
 <a name="opensource-nn"></a>
@@ -452,7 +452,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 | [GEOGRAM](http://alice.loria.fr/software/geogram/doc/html/index.html)                                                   | C++      | Revised BSD License       |
 | [libigl](https://libigl.github.io/tutorial/)                                                                            | C++      | MPL2                      |
 | [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) ⚠️ Archived                             | C++      | MIT License               |
-| [Open3D](https://github.com/IntelVCL/Open3D/) ⭐ 14,029 \| 🐛 1,346 \| 🌐 C++ \| 📅 2026-09-30                           | C++      | MIT License               |
+| [Open3D](https://github.com/IntelVCL/Open3D/) ⭐ 14,036 \| 🐛 1,348 \| 🌐 C++ \| 📅 2026-09-30                           | C++      | MIT License               |
 | [OpenMesh](http://www.openmesh.org/)                                                                                    | C++      | BSD 3 clause license      |
 | [PCL](http://www.pointclouds.org/)                                                                                      | C++      | 3-clause BSD license      |
 | [VCG](http://vcg.isti.cnr.it/~cignoni/newvcglib/html/)                                                                  | C++      | GPL                       |
@@ -541,4 +541,4 @@ Please see [CONTRIBUTING](https://github.com/openMVG/awesome_3DReconstruction_li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
