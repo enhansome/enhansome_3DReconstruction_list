@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T07:43:37Z",
-                "open_issues": 716,
+                "last_commit": "2026-10-11T08:12:56Z",
+                "open_issues": 718,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12887,
+                "stars": 12890,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -246,7 +246,7 @@
                 "open_issues": 42,
                 "owner": "Kitware",
                 "repo": "TeleSculptor",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "aerial-imagery",
                   "c-plus-plus",
@@ -302,7 +302,7 @@
                 "open_issues": 311,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6568,
+                "stars": 6569,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T07:43:37Z",
-                "open_issues": 716,
+                "last_commit": "2026-10-11T08:12:56Z",
+                "open_issues": 718,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12887,
+                "stars": 12890,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -491,8 +491,8 @@
                 "id": 35825593,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T02:18:30Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-11T07:27:12Z",
+                "open_issues": 9,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
                 "stars": 4149,
@@ -695,7 +695,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10248,
+                "stars": 10250,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -837,11 +837,11 @@
                 "id": 15667250,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T02:30:05Z",
+                "last_commit": "2026-10-11T03:07:06Z",
                 "open_issues": 64,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4581,
+                "stars": 4580,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -957,7 +957,7 @@
                 "id": 19349382,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T17:22:20Z",
+                "last_commit": "2026-10-11T06:22:14Z",
                 "open_issues": 40,
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
@@ -995,7 +995,7 @@
                 "open_issues": 98,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6243,
+                "stars": 6244,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 1353,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14059,
+                "stars": 14066,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:07:57.373Z",
+    "last_updated": "2026-10-11T08:19:21.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
