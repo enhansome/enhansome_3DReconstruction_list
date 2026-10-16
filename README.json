@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T14:08:57Z",
-                "open_issues": 720,
+                "last_commit": "2026-10-15T15:32:20Z",
+                "open_issues": 717,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12955,
+                "stars": 12963,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -302,7 +302,7 @@
                 "open_issues": 313,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6572,
+                "stars": 6573,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -329,11 +329,11 @@
                 "id": 26531519,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-14T22:18:08Z",
+                "last_commit": "2026-10-16T02:48:24Z",
                 "open_issues": 233,
                 "owner": "mapillary",
                 "repo": "OpenSfM",
-                "stars": 3806,
+                "stars": 3807,
                 "topics": [
                   "3d-reconstruction",
                   "opencv",
@@ -391,7 +391,7 @@
                 "open_issues": 60,
                 "owner": "laurentkneip",
                 "repo": "opengv",
-                "stars": 1133,
+                "stars": 1134,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T14:08:57Z",
-                "open_issues": 720,
+                "last_commit": "2026-10-15T15:32:20Z",
+                "open_issues": 717,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 12955,
+                "stars": 12963,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -495,7 +495,7 @@
                 "open_issues": 7,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4152,
+                "stars": 4153,
                 "topics": [
                   "3d-reconstruction",
                   "dense-point-cloud",
@@ -628,7 +628,7 @@
                 "open_issues": 240,
                 "owner": "tum-vision",
                 "repo": "lsd_slam",
-                "stars": 2730,
+                "stars": 2731,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -695,7 +695,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10251,
+                "stars": 10252,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -837,8 +837,8 @@
                 "id": 15667250,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T04:14:05Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-16T00:45:06Z",
+                "open_issues": 65,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
                 "stars": 4580,
@@ -911,7 +911,7 @@
                 "open_issues": 90,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14315,
+                "stars": 14319,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -995,7 +995,7 @@
                 "open_issues": 98,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6251,
+                "stars": 6254,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1034,10 +1034,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T10:06:02Z",
-                "open_issues": 1354,
+                "open_issues": 1353,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14087,
+                "stars": 14095,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:59:45.814Z",
+    "last_updated": "2026-10-16T06:45:34.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
@@ -1182,7 +1182,7 @@
       "open_issues": 6,
       "owner": "openMVG",
       "repo": "awesome_3DReconstruction_list",
-      "stars": 4428,
+      "stars": 4429,
       "topics": [
         "3d-reconstruction",
         "awesome-list",
