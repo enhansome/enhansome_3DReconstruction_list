@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T07:27:37Z",
-                "open_issues": 733,
+                "last_commit": "2026-10-29T23:27:49Z",
+                "open_issues": 735,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13094,
+                "stars": 13106,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -302,7 +302,7 @@
                 "open_issues": 313,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6581,
+                "stars": 6584,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -391,7 +391,7 @@
                 "open_issues": 60,
                 "owner": "laurentkneip",
                 "repo": "opengv",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T07:27:37Z",
-                "open_issues": 733,
+                "last_commit": "2026-10-29T23:27:49Z",
+                "open_issues": 735,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13094,
+                "stars": 13106,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -491,11 +491,11 @@
                 "id": 35825593,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T11:10:17Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-29T10:57:15Z",
+                "open_issues": 13,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4177,
+                "stars": 4179,
                 "topics": [
                   "3d-reconstruction",
                   "dense-point-cloud",
@@ -537,7 +537,7 @@
                 "open_issues": 7,
                 "owner": "pmoulon",
                 "repo": "CMVS-PMVS",
-                "stars": 959,
+                "stars": 960,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -649,7 +649,7 @@
                 "open_issues": 123,
                 "owner": "ethz-asl",
                 "repo": "maplab",
-                "stars": 2887,
+                "stars": 2888,
                 "topics": [
                   "mapping",
                   "not-matlab",
@@ -911,7 +911,7 @@
                 "open_issues": 100,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14324,
+                "stars": 14325,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -961,7 +961,7 @@
                 "open_issues": 40,
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
-                "stars": 2700,
+                "stars": 2701,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -995,7 +995,7 @@
                 "open_issues": 99,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6274,
+                "stars": 6277,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 1360,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14140,
+                "stars": 14149,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:03:46.442Z",
+    "last_updated": "2026-10-30T08:05:36.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
