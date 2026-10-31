@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T23:27:49Z",
-                "open_issues": 735,
+                "last_commit": "2026-10-30T23:42:09Z",
+                "open_issues": 729,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13106,
+                "stars": 13111,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -329,11 +329,11 @@
                 "id": 26531519,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-22T05:37:06Z",
+                "last_commit": "2026-10-30T20:11:48Z",
                 "open_issues": 234,
                 "owner": "mapillary",
                 "repo": "OpenSfM",
-                "stars": 3813,
+                "stars": 3814,
                 "topics": [
                   "3d-reconstruction",
                   "opencv",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T23:27:49Z",
-                "open_issues": 735,
+                "last_commit": "2026-10-30T23:42:09Z",
+                "open_issues": 729,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13106,
+                "stars": 13111,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -491,11 +491,11 @@
                 "id": 35825593,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-29T10:57:15Z",
+                "last_commit": "2026-10-31T06:23:31Z",
                 "open_issues": 13,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4179,
+                "stars": 4181,
                 "topics": [
                   "3d-reconstruction",
                   "dense-point-cloud",
@@ -841,7 +841,7 @@
                 "open_issues": 51,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4596,
+                "stars": 4597,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -877,7 +877,7 @@
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3477,
+                "stars": 3478,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -911,7 +911,7 @@
                 "open_issues": 100,
                 "owner": "spotify",
                 "repo": "annoy",
-                "stars": 14325,
+                "stars": 14324,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "c-plus-plus",
@@ -995,7 +995,7 @@
                 "open_issues": 99,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6277,
+                "stars": 6279,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1034,10 +1034,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T10:06:02Z",
-                "open_issues": 1360,
+                "open_issues": 1363,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14149,
+                "stars": 14160,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:05:36.936Z",
+    "last_updated": "2026-10-31T08:00:14.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
