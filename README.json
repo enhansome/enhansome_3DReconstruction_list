@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T08:51:20Z",
-                "open_issues": 783,
+                "last_commit": "2026-11-12T18:51:19Z",
+                "open_issues": 785,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13205,
+                "stars": 13216,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -246,7 +246,7 @@
                 "open_issues": 42,
                 "owner": "Kitware",
                 "repo": "TeleSculptor",
-                "stars": 658,
+                "stars": 659,
                 "topics": [
                   "aerial-imagery",
                   "c-plus-plus",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T08:51:20Z",
-                "open_issues": 783,
+                "last_commit": "2026-11-12T18:51:19Z",
+                "open_issues": 785,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13205,
+                "stars": 13216,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -491,11 +491,11 @@
                 "id": 35825593,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-12T08:52:40Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-13T04:00:23Z",
+                "open_issues": 9,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4190,
+                "stars": 4191,
                 "topics": [
                   "3d-reconstruction",
                   "dense-point-cloud",
@@ -995,7 +995,7 @@
                 "open_issues": 99,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6293,
+                "stars": 6296,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1033,11 +1033,11 @@
                 "id": 75413130,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T00:13:20Z",
+                "last_commit": "2026-11-12T22:47:42Z",
                 "open_issues": 1373,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14199,
+                "stars": 14208,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:19:53.770Z",
+    "last_updated": "2026-11-13T09:07:28.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
