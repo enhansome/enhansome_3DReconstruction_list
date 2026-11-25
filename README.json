@@ -191,7 +191,7 @@
                 "open_issues": 40,
                 "owner": "snavely",
                 "repo": "bundler_sfm",
-                "stars": 1578,
+                "stars": 1577,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -215,11 +215,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T11:44:39Z",
-                "open_issues": 800,
+                "last_commit": "2026-11-25T10:39:18Z",
+                "open_issues": 850,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13285,
+                "stars": 13289,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -274,7 +274,7 @@
                 "open_issues": 5,
                 "owner": "simonfuhrmann",
                 "repo": "mve",
-                "stars": 1064,
+                "stars": 1065,
                 "topics": [
                   "image-based-reconstruction",
                   "multi-view-stereo",
@@ -415,11 +415,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T11:44:39Z",
-                "open_issues": 800,
+                "last_commit": "2026-11-25T10:39:18Z",
+                "open_issues": 850,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13285,
+                "stars": 13289,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "simonfuhrmann",
                 "repo": "mve",
-                "stars": 1064,
+                "stars": 1065,
                 "topics": [
                   "image-based-reconstruction",
                   "multi-view-stereo",
@@ -491,11 +491,11 @@
                 "id": 35825593,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-24T11:41:34Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-25T05:43:03Z",
+                "open_issues": 11,
                 "owner": "cdcseacave",
                 "repo": "openMVS",
-                "stars": 4297,
+                "stars": 4301,
                 "topics": [
                   "3d-reconstruction",
                   "dense-point-cloud",
@@ -841,7 +841,7 @@
                 "open_issues": 45,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4611,
+                "stars": 4613,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -877,7 +877,7 @@
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3480,
+                "stars": 3481,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -961,7 +961,7 @@
                 "open_issues": 38,
                 "owner": "jlblancoc",
                 "repo": "nanoflann",
-                "stars": 2710,
+                "stars": 2713,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -995,7 +995,7 @@
                 "open_issues": 99,
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6310,
+                "stars": 6311,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:30.955Z"
@@ -1034,10 +1034,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-14T06:53:08Z",
-                "open_issues": 1380,
+                "open_issues": 1381,
                 "owner": "isl-org",
                 "repo": "Open3D",
-                "stars": 14248,
+                "stars": 14253,
                 "topics": [
                   "3d",
                   "3d-perception",
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:01:26.891Z",
+    "last_updated": "2026-11-25T10:53:57.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
